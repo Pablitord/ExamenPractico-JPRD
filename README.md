@@ -14,19 +14,20 @@ Asegúrate de tener Python 3.x y pip instalados en tu sistema. Luego, instala la
 
 3. **Configuración de las variables de entorno**
 Crea un archivo .env en la raíz del proyecto y agrega las siguientes variables:
+    ```plaintext
     MYSQL_HOST=tu_host_mysql
     MYSQL_USER=tu_usuario_mysql
     MYSQL_PASSWORD=tu_contraseña_mysql
     MYSQL_DB=tu_base_de_datos_mysql
     MONGO_URI=tu_uri_mongodb
 
+
 4. **Ejecución del Programa**
-Una vez clonado y todo configurado, entramos dentro de la carpeta raíz en caso de que no estemos:
+Una vez clonado y todo configurado, entra dentro de la carpeta raíz del proyecto y ejecuta el archivo main.py:
     ```bash
     cd EXAMENPRACTICO-JPRD
-Una vez estando dentro de la carpeta, ejecutaremos el archivo **main.py**:
-    ```bash
     python main.py
+
 
 **Explicación de la estructura de la base de datos**
 MySQL:
