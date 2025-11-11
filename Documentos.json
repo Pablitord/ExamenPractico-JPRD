@@ -1,0 +1,23 @@
+
+{
+  "username": "admin",
+  "email": "admin@example.com",
+  "password_hash": "$2b$12$7TOcFI9p4lO3TqI1E3A3UuN9C3QqUuAkFvF5YI9Z2pJf8k4Cq2v7e",
+  "fecha_registro": { "$date": { "$numberLong": "1731216000000" } },
+  "activo": true
+}
+
+{
+  "username": "juan",
+  "email": "juan@example.com",
+  "password_hash": "$2b$12$e3ZVQ4G2pjz6Z4K9Qn1M1OqL4S3XzK0C3w5uQ8dH7jJk8lPq2t6nW",
+  "fecha_registro": { "$date": { "$numberLong": "1731216000000" } },
+  "activo": true
+}
+{
+  "username": "maria",
+  "email": "maria@example.com",
+  "password_hash": "$2b$12$K1h3A9N6dF4rE8sL2pQzDeY7Xw9Vb3C5nR2tU8yH1jK4lM6pO2aC",
+  "fecha_registro": { "$date": { "$numberLong": "1731216000000" } },
+  "activo": true
+}
