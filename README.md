@@ -4,8 +4,7 @@ Examen Práctico-Juan Pablo Rovayo Delgado
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/usuario/nombre-del-repositorio.git
-
+   git clone https://github.com/Pablitord/ExamenPractico-JPRD.git
 
 2. **Instalar dependencias**:
 Asegúrate de tener Python 3.x y pip instalados en tu sistema. Luego, instala las dependencias necesarias usando el archivo requirements.txt
